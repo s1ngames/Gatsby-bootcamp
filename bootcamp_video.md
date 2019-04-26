@@ -39,3 +39,17 @@ src/styles folder
 git status
 git add . 
 git commit -am "name"
+
+bring first line from new created github repo
+git push -u origin master
+
+#netlify
+straight forward
+advanced options, add env data
+
+#delploying new version on site
+changing only posts on contentful
+- no github needed
+- go to netlify, deploys, clear cache and deploy
+
+changing also code
